@@ -7,7 +7,7 @@ It's made to boot Linux, so it contains a flat device tree for Linux. However, i
 
 * Now based on LibXenon
 * Supports the new Reset Glitch Hack - RGH. xell-gggggg_cygnos_demon.bin
-* XeLL-Reloaded is now divided in 2 stages:
+is now divided in 2 stages:
 	- 1st Stage initializes most of the Hardware, uncompresses and executes 2nd Stage
 	- 2nd Stage (based on LibXenon) loads all required drivers and does the usual "XeLL tasks"
 * XeLL can unzip & load gzipped files
