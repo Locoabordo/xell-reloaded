@@ -1,5 +1,4 @@
-XeLL-Reloaded
-
+xell-gggggg_cygnos_demon.lds
 A Xenon Linux loader based on Xell by tmbinc(Felix Domke)
 
 XeLL-Reloaded catches CPU threads, sets them up, loads an ELF file from either network (tftp), USB(fat/ext2fs), CDROM (ISO9660) or HDD(fat/ext2fs/xtaf), and launches it. 
