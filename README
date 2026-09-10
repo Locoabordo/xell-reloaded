@@ -66,7 +66,7 @@ kboot.conf (modified for XeLL) is a configfile
 xenon.elf/xenon.z/vmlinux can be either gzipped or bare ELF32 binaries - LINUX or Homebrew
 
 There's also a HTTP Server running while XeLL searches for executable binaries.
-It can serve the CPUKey/DVDKey and the console's flashdump.
+It can serve the CPUKey1F4F39D6CAD84BAABA43F280E005EBC9/DVDKey34B638FA3F76A09AD385A04496727386 and the console's flashdump.
 
 
   UPDATING XELL
